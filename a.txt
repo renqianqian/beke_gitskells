@@ -1,4 +1,4 @@
 a is a txt.
 bbbbb
 cccc
-& simple.
+and simple.
